@@ -1,0 +1,22 @@
+{
+  "name": "cosmoscheck",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "astronomy-engine": "^2.1.19",
+    "esbuild": "^0.28.2",
+    "expo": "~54.0.0",
+    "lunar-javascript": "^1.7.7",
+    "react": "19.1.0",
+    "react-native": "0.81.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.0",
+    "babel-preset-expo": "~54.0.0"
+  }
+}

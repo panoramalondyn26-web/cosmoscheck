@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Cosmos Check",
+    "slug": "cosmoscheck",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "com.jojopower.cosmoscheck",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#0d1226"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.jojopower.cosmoscheck",
+      "supportsTablet": false
+    },
+    "owner": "jojopower",
+    "extra": {
+      "eas": {
+        "projectId": "67760160-9e75-42c0-96db-e29f21e5bacb"
+      }
+    }
+  }
+}
